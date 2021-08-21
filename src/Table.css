@@ -1,0 +1,8 @@
+.table-delete-btn td button {
+    color:blue;
+    background-color: aqua;
+    padding: 1px 3px;
+    border-radius: 9px;
+    outline: none;
+    border: none;
+}
